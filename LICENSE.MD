@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2023] [Towns]
+Copyright (c) [2023] [M3T3L]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
